@@ -5,11 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=1000&color=43C6AC&center=true&vCenter=true&width=700&lines=I'm+Mohammad+Nur+Uddin;Junior+Full-Stack+Web+Developer;React.js+•+Node.js+•+MongoDB;Building+innovative+solutions" alt="Typing SVG Banner" />
 </p>
 
-### 📍 Location & Contact
-- 🌍 Based in: Nilai, Malaysia
-- 📧 Email: [nuruddin2971@gmail.com](mailto:nuruddin2971@gmail.com)
-- 💼 Portfolio: [mohammad-nuruddin.netlify.app](https://mohammad-nuruddin.netlify.app)
-
 - ### 👨‍💻 About Me
 I am a "Junior Full-Stack Web Developer" currently honing my skills through the *Programming Hero* web development course. I am passionate about exploring new technologies and building efficient solutions for real-world problems.
 
@@ -19,17 +14,24 @@ I am a "Junior Full-Stack Web Developer" currently honing my skills through the 
 
 ---
 
-### 🚀 Skills & Technologies
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,mongodb,firebase,git,figma" />
-</p>
+### 📍 Location & Contact
+- 🌍 Based in: Nilai, Malaysia
+- 📧 Email: nuruddin2971@gmail.com
+- 💼 Portfolio: https://mohammad-nuruddin.netlify.app
 
 ---
 
 ### 🌐 Social Links
 - 💼 LinkedIn: (https://www.linkedin.com/in/mohammad-nur-uddin-dev/)
-- 📸 Instagram/TikTok: [Your Profile Link Here]
-- 💬 Snapchat: [Your ID Here]
+- 📸 Instagram/TikTok: 
+- 💬 Snapchat: 
+
+---
+
+### 🚀 Skills & Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,mongodb,firebase,git,figma" />
+</p>
 
 ---
 
