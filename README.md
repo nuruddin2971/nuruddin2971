@@ -6,21 +6,21 @@
 </p>
 
 ### 📍 Location & Contact
-- 🌍 Based in: *Nilai, Malaysia*
+- 🌍 Based in: Nilai, Malaysia
 - 📧 Email: [nuruddin2971@gmail.com](mailto:nuruddin2971@gmail.com)
 - 💼 Portfolio: [mohammad-nuruddin.netlify.app](https://mohammad-nuruddin.netlify.app)
 
 - ### 👨‍💻 About Me
-I am a *Junior Full-Stack Web Developer* currently honing my skills through the *Programming Hero* web development course. I am passionate about exploring new technologies and building efficient solutions for real-world problems.
+I am a "Junior Full-Stack Web Developer" currently honing my skills through the *Programming Hero* web development course. I am passionate about exploring new technologies and building efficient solutions for real-world problems.
 
-- 🔭 I’m currently working on my personal portfolio project, *Antigravity*.
-- 🌱 I’m currently learning *Next.js* and *MongoDB* to expand my full-stack capabilities.
+- 🔭 I’m currently working on my personal portfolio project, "Antigravity".
+- 🌱 I’m currently learning "Next.js" and "MongoDB" to expand my full-stack capabilities.
 - ⚡ Fun fact: Beyond coding, I have a keen interest in Business Communication and Applied Mathematics.
 
 ---
 
 ### 📍 Location & Contact
-- 🌍 Based in: *Nilai, Malaysia*
+- 🌍 Based in: Nilai, Malaysia
 - 📧 Email: [nuruddin2971@gmail.com](mailto:nuruddin2971@gmail.com)
 - 💼 Portfolio: [mohammad-nuruddin.netlify.app](https://mohammad-nuruddin.netlify.app)
 
@@ -29,8 +29,8 @@ I am a *Junior Full-Stack Web Developer* currently honing my skills through the 
 ### 👨‍💻 About Me
 I am a "Junior Full-Stack Web Developer" currently honing my skills through the *Programming Hero* web development course. I am passionate about exploring new technologies and building efficient solutions for real-world problems.
 
-- 🔭 I’m currently working on my personal portfolio project, *Antigravity*.
-- 🌱 I’m currently learning *Next.js* and *MongoDB* to expand my full-stack capabilities.
+- 🔭 I’m currently working on my personal portfolio project, "Antigravity".
+- 🌱 I’m currently learning "Next.js" and "MongoDB" to expand my full-stack capabilities.
 - ⚡ Fun fact: Beyond coding, I have a keen interest in Business Communication and Applied Mathematics.
 
 ---
@@ -43,9 +43,9 @@ I am a "Junior Full-Stack Web Developer" currently honing my skills through the 
 ---
 
 ### 🌐 Social Links
-- 💼 *LinkedIn:* [linkedin.com/in/nuruddin2971]
-- 📸 *Instagram/TikTok:* [Your Profile Link Here]
-- 💬 *Snapchat:* [Your ID Here]
+- 💼 LinkedIn: (https://www.linkedin.com/in/mohammad-nur-uddin-dev/)
+- 📸 Instagram/TikTok: [Your Profile Link Here]
+- 💬 Snapchat: [Your ID Here]
 
 ---
 
