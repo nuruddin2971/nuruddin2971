@@ -22,7 +22,7 @@ I am a "Junior Full-Stack Web Developer" currently honing my skills through the 
 ---
 
 ### 🌐 Social Links
-- 💼 LinkedIn: (https://www.linkedin.com/in/mohammad-nur-uddin-dev/)
+- 💼 LinkedIn: https://www.linkedin.com/in/mohammad-nur-uddin-dev/
 - 📸 Instagram/TikTok: 
 - 💬 Snapchat: 
 
