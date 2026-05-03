@@ -19,22 +19,6 @@ I am a "Junior Full-Stack Web Developer" currently honing my skills through the 
 
 ---
 
-### 📍 Location & Contact
-- 🌍 Based in: Nilai, Malaysia
-- 📧 Email: [nuruddin2971@gmail.com](mailto:nuruddin2971@gmail.com)
-- 💼 Portfolio: [mohammad-nuruddin.netlify.app](https://mohammad-nuruddin.netlify.app)
-
----
-
-### 👨‍💻 About Me
-I am a "Junior Full-Stack Web Developer" currently honing my skills through the *Programming Hero* web development course. I am passionate about exploring new technologies and building efficient solutions for real-world problems.
-
-- 🔭 I’m currently working on my personal portfolio project, "Antigravity".
-- 🌱 I’m currently learning "Next.js" and "MongoDB" to expand my full-stack capabilities.
-- ⚡ Fun fact: Beyond coding, I have a keen interest in Business Communication and Applied Mathematics.
-
----
-
 ### 🚀 Skills & Technologies
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,mongodb,firebase,git,figma" />
