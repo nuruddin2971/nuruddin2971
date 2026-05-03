@@ -17,7 +17,7 @@ I am a "Junior Full-Stack Web Developer" currently honing my skills through the 
 ### 📍 Location & Contact
 - 🌍 Based in: Nilai, Malaysia
 - 📧 Email: nuruddin2971@gmail.com
-- 💼 Portfolio: https://mohammad-nuruddin.netlify.app
+- 💼 Portfolio: https://mohammad-nuruddin-portfolio.netlify.app/
 
 ---
 
