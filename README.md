@@ -2,7 +2,7 @@
 ### Junior Full-Stack Web Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=1000&color=43C6AC&center=true&vCenter=true&width=700&lines=I'm+Mohammad+Nur+Uddin;Full-Stack+Web+Developer;React.js+•+TypeScript+•+Node.js+•+MongoDB;Building+innovative+solutions" alt="Typing SVG Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=1000&color=43C6AC&center=true&vCenter=true&width=700&lines=I'm+Mohammad+Nur+Uddin;Full-Stack+Web+Developer;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+MongoDB;Building+innovative+solutions" alt="Typing SVG Banner" />
 </p>
 
 - ### 👨‍💻 About Me
