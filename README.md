@@ -2,11 +2,11 @@
 ### Junior Full-Stack Web Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=1000&color=43C6AC&center=true&vCenter=true&width=700&lines=I'm+Mohammad+Nur+Uddin;Junior+Full-Stack+Web+Developer;React.js+•+Node.js+•+MongoDB;Building+innovative+solutions" alt="Typing SVG Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=1000&color=43C6AC&center=true&vCenter=true&width=700&lines=I'm+Mohammad+Nur+Uddin;Full-Stack+Web+Developer;React.js+•+TypeScript+•+Node.js+•+MongoDB;Building+innovative+solutions" alt="Typing SVG Banner" />
 </p>
 
 - ### 👨‍💻 About Me
-I am a "Junior Full-Stack Web Developer" currently honing my skills through the *Programming Hero* web development course. I am passionate about exploring new technologies and building efficient solutions for real-world problems.
+I am a "Full-Stack Web Developer" currently honing my skills through the *Programming Hero* web development course. I am passionate about exploring new technologies and building efficient solutions for real-world problems.
 
 - 🔭 I’m currently working on my personal portfolio project, "Antigravity".
 - 🌱 I’m currently learning "Next.js" and "MongoDB" to expand my full-stack capabilities.
@@ -30,7 +30,7 @@ I am a "Junior Full-Stack Web Developer" currently honing my skills through the 
 
 ### 🚀 Skills & Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,mongodb,firebase,git,figma" />
+  <img src="https://skillicons.dev/icons?i=html,js,ts,react,nextjs,tailwind,nodejs,express,mongoose,mongodb,github,figma,cursor" />
 </p>
 
 ---
