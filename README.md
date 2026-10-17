@@ -17,7 +17,7 @@ I am a "Full-Stack Web Developer" currently honing my skills through the *Progra
 ### 📍 Location & Contact
 - 🌍 Based in: Nilai, Malaysia
 - 📧 Email: nuruddin2971@gmail.com
-- 💼 Portfolio: https://mohammad-nuruddin-portfolio.netlify.app/
+- 💼 Portfolio: https://mohammad-nuruddin-portfolio.vercel.app/
 
 ---
 
