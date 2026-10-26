@@ -111,41 +111,72 @@ The application should now be running locally.
 
 ---
 
-2. 📋 Job Application Tracker
+## 2. 🚀 Dev Stack — Development Technology Selector
 
-### Project Overview
-The "Job Application Tracker" is a functional web application designed to help job seekers manage their applications. It allows users to track which jobs are available, move them to "Interview" or "Rejected" categories, and monitor their progress via a real-time dashboard.
+## 📝 Description
 
-### 🛠 Technologies Used
-*   HTML5: For core application structure.
-*   Tailwind CSS: For rapid, modern UI styling.
-*   DaisyUI: For pre-styled components like buttons and cards.
-*   Font Awesome: For intuitive iconography (trash cans, etc.).
-*   JavaScript (DOM Manipulation): For handling tabs, status updates, and dynamic counting.
+Dev Stack is a modern and responsive web application designed to help developers choose the right technologies for their projects. Users can explore, compare, and select technologies to build a personalized development stack tailored to their specific needs.
 
-### Live Link: https://nuruddin2971.github.io/Assignment-4/
+* Live Link: https://assignment-05-dev-stack.netlify.app/
+* GitHub Repository Link: https://github.com/nuruddin2971/Assignment-05
 
-### ✨ Main Features
-*   Live Dashboard: Real-time counters for Total, Interview, and Rejected applications.
-*   Tab System: Switch between "All", "Interview", and "Rejected" views seamlessly.
-*   Application Management: 
-    *   Mark jobs for Interview or Rejection.
-    *   Delete specific job listings from the list.
-*   Empty State Handling: Displays a "No jobs available" message when the list is empty.
-*   Responsive Cards: Job details organized in a clean, card-based layout for better readability.
+## 📸 Project Screenshot
+<img width="1920" height="3517" alt="dev-stack" src="https://github.com/user-attachments/assets/582c4602-af52-4c74-99e0-2ab2a0caefb4" />
 
-### 📦 Dependencies
-*   Tailwind Browser CDN: `@tailwindcss/browser@4`
-*   DaisyUI CDN: `daisyui@5`
-*   Font Awesome CDN: `[cdnjs.cloudflare.com/.../font-awesome/7.0.1](https://cdnjs.cloudflare.com/.../font-awesome/7.0.1)`
+## ✨ Key Features
 
-### ⚙️ How to Run Locally
-*  Clone the Repository:
-    ```bash
-    git clone https://github.com/nuruddin2971/Assignment-4.git
-    ```
-*  Open the Project:
-    Navigate to the project folder and open `index.html` in your browser.
+* Explore Technologies: Browse a curated collection of technologies, including frontend, backend, databases, programming languages, styling tools, and development utilities.
+* Compare Technologies: Compare technologies based on their descriptions, ratings, categories, and difficulty levels.
+* Build Your Stack: Select and combine technologies to create a personalized development stack for your next project.
+* Duplicate Selection Prevention: Prevent duplicate technologies from being added to your stack.
+* Interactive Notifications: Display success and warning notifications when users add technologies or attempt to add duplicates.
+* Responsive UI: Enjoy a modern interface optimized for different screen sizes.
+
+## 🛠️ Technologies Used
+
+* React.js: Component-based user interface development.
+* TypeScript: Static typing and improved code reliability.
+* Tailwind CSS: Utility-first styling for responsive designs.
+* DaisyUI: Prebuilt UI components and styling utilities.
+* Vite: Fast development server and build tool.
+* React Icons: Icons for interface elements.
+* React Toastify: Notifications and user feedback.
+
+## 📦 Dependencies
+
+# The project uses the following main libraries and tools:
+* react — React UI library.
+* react-dom — React DOM rendering.
+* typescript — TypeScript language support.
+* vite — Development server and build tool.
+* tailwindcss — Utility-first CSS framework.
+* daisyui — Tailwind CSS component library.
+* react-icons — Icon library.
+* react-toastify — Toast notifications.
+
+## 🚀 Getting Started
+
+# Make sure you have installed:
+* Node.js — preferably an LTS version compatible with the project
+* npm (included with Node.js)
+* Git
+
+# Follow these steps to run Dev Stack on your local machine.
+
+# Prerequisites
+
+# Make sure you have installed:
+* Node.js — preferably an LTS version compatible with the project.
+* npm — included with Node.js.
+* Git — for cloning the repository.
+
+1. Clone the Repository: git clone https://github.com/nuruddin2971/Assignment-05.git
+2. Navigate to the Project Directory: cd Assignment-05
+3. Install Dependencies: npm install
+4. Start the Development Server: npm run dev
+5. Open the Application
+Visit the following URL in your browser: http://localhost:3000
+The application should now be running locally.
 
 ---
 
