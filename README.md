@@ -49,13 +49,16 @@ I am a "Full-Stack Web Developer" currently honing my skills through the *Progra
 
 ## 1.🏋️‍♂️ Fit-Log — Fitness Tracking Application
 
-* Fit-Log is a modern, responsive fitness tracking web application built with Next.js, React, and TypeScript. It helps users organize their daily workout routines, save favorite exercises, and monitor workout statistics such as duration and calories burned.
+## 📝 Description
+
+Fit-Log is a modern and responsive fitness tracking web application that helps users manage their daily exercise routines. Users can track their total workout duration and calories burned while organizing their favorite exercises and daily workout plans.
 
 * Live Link: https://fit-dguc7z6vm-shojib2.vercel.app/
 
 * GitHub Repository Link: https://github.com/nuruddin2971/fit-log
 
-## 📸 Project Screenshot: <img width="439" height="800" alt="fit-log" src="https://github.com/user-attachments/assets/77dad05e-b6cf-46a2-9e15-ca856b3daa70" />
+## 📸 Project Screenshot: 
+<img width="439" height="800" alt="fit-log" src="https://github.com/user-attachments/assets/77dad05e-b6cf-46a2-9e15-ca856b3daa70" />
 
 ## ✨ Key Features
 
@@ -99,17 +102,11 @@ I am a "Full-Stack Web Developer" currently honing my skills through the *Progra
 * Git
 
 1. Clone the Repository: git clone https://github.com/nuruddin2971/fit-log.git
-
 2. Navigate to the Project Directory: cd fit-log
-
 3. Install Dependencies: npm install
-
 4. Start the Development Server: npm run dev
-
 5. Open the Application
-
 Visit the following URL in your browser: http://localhost:3000
-
 The application should now be running locally.
 
 ---
