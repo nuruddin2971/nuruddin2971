@@ -47,40 +47,70 @@ I am a "Full-Stack Web Developer" currently honing my skills through the *Progra
 
 ### Repository
 
-1. 🚀 TechWave Podcast Landing Page
+## 1.🏋️‍♂️ Fit-Log — Fitness Tracking Application
 
-### Project Overview
-"TechWave" is a modern, responsive landing page designed for a technology-focused podcast. It features a sleek dark theme with vibrant gradients, providing users with information about episodes, the host, and various platforms to listen to the podcast.
+* Fit-Log is a modern, responsive fitness tracking web application built with Next.js, React, and TypeScript. It helps users organize their daily workout routines, save favorite exercises, and monitor workout statistics such as duration and calories burned.
 
-### 🛠 Technologies Used
-*   HTML5: For semantic structure.
-*   Tailwind CSS: For modern, utility-first styling.
-*   Google Fonts (Inter): For clean and professional typography.
+* Live Link: https://fit-dguc7z6vm-shojib2.vercel.app/
 
+* GitHub Repository Link: https://github.com/nuruddin2971/fit-log
 
-### Live Link: https://nuruddin2971.github.io/assignment-02/
+## 📸 Project Screenshot: <img width="439" height="800" alt="fit-log" src="https://github.com/user-attachments/assets/77dad05e-b6cf-46a2-9e15-ca856b3daa70" />
 
-### ✨ Main Features
-*   Responsive Design: Fully optimized for mobile, tablet, and desktop views.
-*   Dynamic UI: Gradient text effects and hover-capable buttons.
-*   Hero Section: Eye-catching banner with quick action links (Spotify/Subscribe).
-*   Statistics Bar: Displays podcast growth (Listeners, Episodes, etc.).
-*   Grid Layout: "Why Choose TechWave" section using CSS Grid for complex layouts.
-*   YouTube Integration: Embedded video players for featured episodes.
-*   Host Profile: A dedicated section introducing the creator with social links.
+## ✨ Key Features
 
-### 📦 Dependencies
-*   Tailwind CSS CDN: Loaded via `@tailwindcss/browser@4`.
-*   Inter Font Family: Custom font imported for consistent branding.
+* Today's Plan: Add workouts to your daily exercise plan and monitor workout statistics.
+* Saved Workouts: Save favorite exercises for quick access in a dedicated section.
+* Live Navbar Badges: Display updated counts of planned and saved workouts across the application.
+* Dynamic Sorting: Sort exercises by workout duration, calories burned, or rating.
+* Workout Statistics: Track total workout duration and estimated calories burned.
+* Global State Management: Use React Context API to share workout plan and saved workout state across components.
+* Responsive UI: Enjoy a clean, dark-themed interface optimized for desktop, tablet, and mobile devices.
 
-### How to Run Locally
-*  Clone the Repository:
-    ```bash
-    git clone (https://github.com/nuruddin2971/assignment-02.git)
-    ```
-*  Navigate to the Folder:
-    ```bash
-    cd techwave-podcast
+## 🛠️ Technologies Used
+
+* Next.js: React framework and application rendering
+* React.js: Component-based user interface
+* TypeScript: Static typing and improved code reliability
+* Tailwind CSS: Utility-first styling
+* DaisyUI: UI components and styling utilities
+* React Icons: Icons for interface elements
+
+## 📦 Dependencies
+
+# The project uses the following main libraries and tools:
+* next — Next.js framework
+* react — React UI library
+* react-dom — React DOM rendering
+* typescript — TypeScript language support
+* tailwindcss — Utility-first CSS framework
+* daisyui — Tailwind CSS component library
+* react-icons — Icon library
+
+## 🚀 Getting Started
+
+# Follow these steps to run Fit-Log on your local machine.
+
+# Prerequisites
+
+# Make sure you have installed:
+* Node.js — preferably an LTS version compatible with the project
+* npm (included with Node.js)
+* Git
+
+1. Clone the Repository: git clone https://github.com/nuruddin2971/fit-log.git
+
+2. Navigate to the Project Directory: cd fit-log
+
+3. Install Dependencies: npm install
+
+4. Start the Development Server: npm run dev
+
+5. Open the Application
+
+Visit the following URL in your browser: http://localhost:3000
+
+The application should now be running locally.
 
 ---
 
