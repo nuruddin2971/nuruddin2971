@@ -58,7 +58,8 @@ Fit-Log is a modern and responsive fitness tracking web application that helps u
 * GitHub Repository Link: https://github.com/nuruddin2971/fit-log
 
 ## 📸 Project Screenshot: 
-<img width="439" height="800" alt="fit-log" src="https://github.com/user-attachments/assets/77dad05e-b6cf-46a2-9e15-ca856b3daa70" />
+<img width="1920" height="3495" alt="fit-log" src="https://github.com/user-attachments/assets/6a561c04-15e2-4a0f-9a4f-1a1dad3d2e58" />
+
 
 ## ✨ Key Features
 
