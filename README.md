@@ -53,7 +53,7 @@ I am a "Full-Stack Web Developer" currently honing my skills through the *Progra
 
 Fit-Log is a modern and responsive fitness tracking web application that helps users manage their daily exercise routines. Users can track their total workout duration and calories burned while organizing their favorite exercises and daily workout plans.
 
-* Live Link: https://fit-dguc7z6vm-shojib2.vercel.app/
+* Live Link: https://fit-log-two-chi.vercel.app/
 
 * GitHub Repository Link: https://github.com/nuruddin2971/fit-log
 
